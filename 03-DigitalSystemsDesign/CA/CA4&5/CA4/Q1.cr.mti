@@ -1,0 +1,97 @@
+C:/Users/a/Desktop/CA4/Q6.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q6.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftRG
+
+Top level modules:
+	ShiftRG
+
+} {} {}} C:/Users/a/Desktop/CA4/Q7.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftRegTB
+
+Top level modules:
+	ShiftRegTB
+
+} {} {}} C:/Users/a/Desktop/CA4/Q8.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q8.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MSDFF
+
+Top level modules:
+	MSDFF
+
+} {} {}} C:/Users/a/Desktop/CA4/Q10.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q10.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shifter8_MSDFF
+
+Top level modules:
+	shifter8_MSDFF
+
+} {} {}} C:/Users/a/Desktop/CA4/Q4_TB.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q4_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLTb
+
+Top level modules:
+	DLTb
+
+} {} {}} C:/Users/a/Desktop/CA4/Q9.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q9.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLatch
+
+Top level modules:
+	DLatch
+
+} {} {}} C:/Users/a/Desktop/CA4/Q11.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q11.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftReg2TB
+
+Top level modules:
+	ShiftReg2TB
+
+} {} {}} C:/Users/a/Desktop/CA4/Q8_tb_op.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q8_tb_op.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MSDFF_Tb
+
+Top level modules:
+	MSDFF_Tb
+
+} {} {}} C:/Users/a/Desktop/CA4/Q13.v {0 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q13.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LFSR
+** Error: (vlog-13069) C:/Users/a/Desktop/CA4/Q13.v(3): near "EOF": syntax error, unexpected end of source code.
+
+} {4.0 5.0} {}} C:/Users/a/Desktop/CA4/Q4_1.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q4_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLatch
+
+Top level modules:
+	DLatch
+
+} {} {}} C:/Users/a/Desktop/CA4/Q4_2.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q4_2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLatch2
+
+Top level modules:
+	DLatch2
+
+} {} {}} C:/Users/a/Desktop/CA4/Q1.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRLatch
+
+Top level modules:
+	SRLatch
+
+} {} {}} C:/Users/a/Desktop/CA4/Q3.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRTb
+
+Top level modules:
+	SRTb
+
+} {} {}} C:/Users/a/Desktop/CA4/Q5.v {1 {vlog -work work -stats=none C:/Users/a/Desktop/CA4/Q5.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}}

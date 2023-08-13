@@ -1,0 +1,8 @@
+
+State Machine - |MealySVerilogPP|ps
+Name ps.D ps.C ps.B ps.A ps.E 
+ps.A 0 0 0 0 0 
+ps.B 0 0 1 1 0 
+ps.C 0 1 0 1 0 
+ps.D 1 0 0 1 0 
+ps.E 0 0 0 1 1 

@@ -1,0 +1,139 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vmealy10110
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1673188719
+!i10b 1
+!s100 _V@oV:m?fT][iQ5BR08l13
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IEeGm6<M`iQbYQB1dmi8:_2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/ASUS/Desktop/P5
+w1673188223
+8C:\Users\ASUS\Desktop\P5\Q2.sv
+FC:\Users\ASUS\Desktop\P5\Q2.sv
+!i122 11
+Z5 L0 2 22
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1673188719.000000
+!s107 C:\Users\ASUS\Desktop\P5\Q2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\ASUS\Desktop\P5\Q2.sv|
+!i113 1
+Z8 o-work work -sv
+Z9 tCvgOpt 0
+vmoore10110
+R0
+R1
+!i10b 1
+!s100 :OT^YE`Uk@l4Pb:jToeM^0
+R2
+IQ5oRmK@X<7G@GF09OLTf43
+R3
+S1
+R4
+w1673188210
+8C:\Users\ASUS\Desktop\P5\Q1.sv
+FC:\Users\ASUS\Desktop\P5\Q1.sv
+!i122 10
+L0 2 23
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\ASUS\Desktop\P5\Q1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\ASUS\Desktop\P5\Q1.sv|
+!i113 1
+R8
+R9
+vQ1_TB
+R0
+R1
+!i10b 1
+!s100 XE5;[jEW9BKX>MgNnGoLf3
+R2
+IoJF@k8oB;n8>@9bII7ec61
+R3
+S1
+R4
+w1673188711
+8C:\Users\ASUS\Desktop\P5\Q1TB.sv
+FC:\Users\ASUS\Desktop\P5\Q1TB.sv
+!i122 12
+L0 2 20
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\ASUS\Desktop\P5\Q1TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\ASUS\Desktop\P5\Q1TB.sv|
+!i113 1
+R8
+R9
+n@q1_@t@b
+vQ2_TB
+R0
+!s110 1673188720
+!i10b 1
+!s100 I>gjzQz8N[WiSn5C[h5E>0
+R2
+IVOn2G0O^kX]fn:_;G0cX@1
+R3
+S1
+R4
+w1673188377
+8C:\Users\ASUS\Desktop\P5\Q2TB.sv
+FC:\Users\ASUS\Desktop\P5\Q2TB.sv
+!i122 13
+L0 2 21
+R6
+r1
+!s85 0
+31
+!s108 1673188720.000000
+!s107 C:\Users\ASUS\Desktop\P5\Q2TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\ASUS\Desktop\P5\Q2TB.sv|
+!i113 1
+R8
+R9
+n@q2_@t@b
+vQ3_TB
+R0
+!s110 1673199289
+!i10b 1
+!s100 VlkR6b[MbbHY_oHBF4Ubm1
+R2
+IQ7l89_68YBXhBYz>ECG5F3
+R3
+S1
+R4
+w1673199250
+8C:\Users\ASUS\Desktop\P5\Q3.sv
+FC:\Users\ASUS\Desktop\P5\Q3.sv
+!i122 14
+R5
+R6
+r1
+!s85 0
+31
+!s108 1673199289.000000
+!s107 C:\Users\ASUS\Desktop\P5\Q3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\ASUS\Desktop\P5\Q3.sv|
+!i113 1
+R8
+R9
+n@q3_@t@b

@@ -1,0 +1,11 @@
+|MealySVerilogPP
+clk => ps~1.DATAIN
+rst => ps~3.DATAIN
+j => ns.D.DATAB
+j => ns.E.DATAB
+j => Selector1.IN2
+j => Selector0.IN1
+j => Selector2.IN1
+w << w.DB_MAX_OUTPUT_PORT_TYPE
+
+

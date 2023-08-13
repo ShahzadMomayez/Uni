@@ -1,0 +1,6 @@
+set tool_name "ModelSim-Altera (SystemVerilog)"
+set corner_file_list {
+    {{"Slow -7 1.2V 125 Model"} {MealySVerilogPP_7_1200mv_125c_slow.svo MealySVerilogPP_7_1200mv_125c_v_slow.sdo}}
+    {{"Slow -7 1.2V -40 Model"} {MealySVerilogPP_7_1200mv_-40c_slow.svo MealySVerilogPP_7_1200mv_-40c_v_slow.sdo}}
+    {{"Fast -M 1.2V -40 Model"} {MealySVerilogPP_min_1200mv_-40c_fast.svo MealySVerilogPP_min_1200mv_-40c_v_fast.sdo}}
+}

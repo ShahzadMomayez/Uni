@@ -1,0 +1,20 @@
+Fitter Status : Successful - Sun Jan 08 20:44:13 2023
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : MealySVerilogPP
+Top-level Entity Name : MealySVerilogPP
+Family : Cyclone IV GX
+Device : EP4CGX15BF14A7
+Timing Models : Final
+Total logic elements : 4 / 14,400 ( < 1 % )
+    Total combinational functions : 4 / 14,400 ( < 1 % )
+    Dedicated logic registers : 4 / 14,400 ( < 1 % )
+Total registers : 4
+Total pins : 4 / 81 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 0 / 552,960 ( 0 % )
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0 / 2 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 2 ( 0 % )
+Total PLLs : 0 / 3 ( 0 % )

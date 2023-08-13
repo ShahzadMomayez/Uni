@@ -1,0 +1,108 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ASUS/Desktop/P5
+vhard_block
+Z0 !s110 1673202102
+!i10b 1
+!s100 fPd_Com8QA0=dz9Dmc1hG2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+II^j=@iX9jYEWRjV?@8e2[3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/ASUS/Desktop/P5/MealyMooreSimulate
+Z4 w1673197144
+Z5 8C:\Users\ASUS\Desktop\P5\MealyMooreSimulate\MooreSVPP.svo
+Z6 FC:\Users\ASUS\Desktop\P5\MealyMooreSimulate\MooreSVPP.svo
+!i122 7
+L0 340 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1673202102.000000
+Z9 !s107 C:\Users\ASUS\Desktop\P5\MealyMooreSimulate\MooreSVPP.svo|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\ASUS\Desktop\P5\MealyMooreSimulate\MooreSVPP.svo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vMealySVerilogPP
+R0
+!i10b 1
+!s100 Y9JZM`eU43QMmWBdW0]6g1
+R1
+IW0Te^kWnAPL2II[@0Si8>1
+R2
+R3
+w1673198057
+8C:\Users\ASUS\Desktop\P5\MealyMooreSimulate\MealySVerilogPP.svo
+FC:\Users\ASUS\Desktop\P5\MealyMooreSimulate\MealySVerilogPP.svo
+!i122 6
+L0 32 269
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\ASUS\Desktop\P5\MealyMooreSimulate\MealySVerilogPP.svo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\ASUS\Desktop\P5\MealyMooreSimulate\MealySVerilogPP.svo|
+!i113 1
+R11
+R12
+n@mealy@s@verilog@p@p
+vMooreSVPP
+R0
+!i10b 1
+!s100 hFh_mg:26lSo:>Gm918_G2
+R1
+IQ;4lAfdbF2a@CJIOmg@3k3
+R2
+R3
+R4
+R5
+R6
+!i122 7
+L0 32 307
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@moore@s@v@p@p
+vQ3_TB
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1673208747
+!i10b 1
+!s100 zmZA=iR;Z:6<?7Wk<iE@P0
+R1
+ILjPLiDf2`Q7>l?MbDCVaz2
+R2
+S1
+R3
+w1673208740
+8C:\Users\ASUS\Desktop\P5\MealyMooreSimulate\Q3.sv
+FC:\Users\ASUS\Desktop\P5\MealyMooreSimulate\Q3.sv
+!i122 12
+L0 2 21
+R7
+r1
+!s85 0
+31
+!s108 1673208747.000000
+!s107 C:\Users\ASUS\Desktop\P5\MealyMooreSimulate\Q3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\ASUS\Desktop\P5\MealyMooreSimulate\Q3.sv|
+!i113 1
+o-work work -sv
+R12
+n@q3_@t@b
